@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolarBearPolar
 - 👀 I’m interested in programming in general
-- 🌱 I work with Python, Java, and SQL
+- 🌱 I work with Python, Java, SQL, and Docker
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me ilushafilippov@gmail.com
 
